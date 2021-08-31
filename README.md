@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Further Info
-no database...
+database coming soon...
 
 ### `yarn start`
 
