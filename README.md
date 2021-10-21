@@ -7,6 +7,8 @@ In the project directory, you can run:
 ## Further Info
 database coming soon...
 
+(Link is in the description)
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
