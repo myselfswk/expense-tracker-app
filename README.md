@@ -6,9 +6,6 @@ Note: Not Proper UI
 
 In the project directory, you can run:
 
-## Further Info
-database coming soon...
-
 (Link is in the description)
 
 ### `yarn start`
